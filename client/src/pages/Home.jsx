@@ -11,7 +11,7 @@ import {
 import { HiSparkles } from 'react-icons/hi';
 import { motion } from 'motion/react'
 import { useState } from 'react';
-import AuthModel from '../components/authModel';
+
 import { useNavigate } from 'react-router-dom';
 import hrImg from "../assets/images/HR.png";
 import teachImg from "../assets/images/tech.png";
